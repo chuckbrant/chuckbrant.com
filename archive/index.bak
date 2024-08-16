@@ -1,0 +1,224 @@
+---
+layout: page
+title: "Chuck's Photographs"
+description: "The albums are loaded from iCloud, so please be patient there is a little delay while they load up."
+active: gallery
+header-img: "img/gallery-bg.png"
+images:
+ - image_path: /gallery/photo/Athens2.jpg 
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lJHciePGG5qpa 
+   gallery-name: Anthens, Greece 
+   gallery-date: May 2024 
+ - image_path: /gallery/photo/Santorini.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGeA5r4Rnfsk
+   gallery-name: Santorini, Greece
+   gallery-date: May 2024
+ - image_path: /gallery/photo/Mykonos.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lJOFSVFGETMWy
+   gallery-name: Mykonos, Greece
+   gallery-date: April 2024
+ - image_path: /gallery/photo/Athens.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGFqhgJp9eoh
+   gallery-name: Athens, Greece
+   gallery-date: April 2024
+ - image_path: /gallery/photo/Nafpaktos.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l5ZhN2vJ57YiV
+   gallery-name: Nafpaktos, Greece
+   gallery-date: April 2024
+ - image_path: /gallery/photo/Kalambaka.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lJPrgBGG6V5hM
+   gallery-name: Kalambaka, Greece
+   gallery-date: April 2024
+ - image_path: /gallery/photo/Thessaloniki.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l5KMDhOGTXfnl
+   gallery-name: Thessaloniki, Greece
+   gallery-date: April 2024
+ - image_path: /gallery/photo/sunrise2024.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lJHciePGG5qpa
+   gallery-name: Sunrise at Union Point Park, New Bern NC
+   gallery-date: March 2024
+ - image_path: /gallery/photo/Richmond2024.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lG1CvrSHFwiA
+   gallery-name: Carytown visit to Richmond Va
+   gallery-date: March 2024
+ - image_path: /gallery/photo/MardiGras2024.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lJq4WnLGfLPkz
+   gallery-name: Ghent Neighborhood, New Bern
+   gallery-date: February 2024
+ - image_path: /gallery/photo/bridgepointe.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l5p3ichGFHtkg
+   gallery-name: Bridgepointe, New Bern
+   gallery-date: February 2024
+ - image_path: /gallery/photo/MartinMarietta.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGsCn7GJRmHlU
+   gallery-name: Martin Marietta Park, New Bern
+   gallery-date: January 2024
+ - image_path: /gallery/photo/newyearseve2024.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l5cLqfNG4FDzg
+   gallery-name: New Year's Eve 2024
+   gallery-date: December 2023
+ - image_path: /gallery/photo/flotilla2023.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGqQrCL08CpP
+   gallery-name: Christmas Flotilla 2023
+   gallery-date: December 2023
+ - image_path: /gallery/photo/Cemetry.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGDZLe892DBl
+   gallery-name: Wreaths Across America
+   gallery-date: December 2023
+ - image_path: /gallery/photo/tryon.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l5kuVsbJ0w2q3
+   gallery-name: Tryon Palace
+   gallery-date: September 2023
+ - image_path: /gallery/photo/colo2.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGVfZ2vnShML
+   gallery-name: Katie and Nick's Wedding in Colorado 
+   gallery-date: August 2023
+ - image_path: /gallery/photo/brices.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lJsHvHok9M7E
+   gallery-name: Brices Creek Boat Ramp
+   gallery-date: July 2023
+ - image_path: /gallery/photo/congaree.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lJ8GySPGJPBvB
+   gallery-name: Congaree National Park
+   gallery-date: Summer 2023
+ - image_path: /gallery/photo/StAugustine.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGzFCC1Blrox
+   gallery-name: St. Augustine
+   gallery-date: Summer 2023
+ - image_path: /gallery/photo/class.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lJr1PPdG0VsCh
+   gallery-name: Photography Class
+   gallery-date: Summer 2023
+ - image_path: /gallery/photo/50mm.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l5BydzFGznkQO
+   gallery-name: 50mm Prime
+   gallery-date: ongoing
+ - image_path: /gallery/photo/retroCCD.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGlxzuq1aPsd
+   gallery-name: Retro CCD Point & Shot (DMC-FP8)
+   gallery-date: ongoing
+ - image_path: /gallery/photo/macro.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGhtLJ3xrrVx
+   gallery-name: Macro 
+   gallery-date: ongoing
+ - image_path: /gallery/photo/durham.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGrhkPxsSgHG
+   gallery-name: Durham
+   gallery-date: April 2023
+ - image_path: /gallery/photo/newbern1.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lJu8EH6ARNKv
+   gallery-name: New Bern NC
+   gallery-date: Mar 2023
+ - image_path: /gallery/photo/MoveSerenity.jpg 
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l5aVbMKJJdlAi
+   gallery-name: Serenity - Our Catalina 42 
+   gallery-date: Apr 2023 
+ - image_path: /gallery/photo/oriental.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l5fEtEvGPMXgT
+   gallery-name: Oriental NC
+   gallery-date: Apr 2023 
+ - image_path: /gallery/photo/Colorado1.png
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l5ejO17GXVkiA
+   gallery-name: Denver CO
+   gallery-date: Oct 2022
+ - image_path: /gallery/photo/Richmond.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l5M7GFPGkfDFA 
+   gallery-name: Richmond VA
+   gallery-date:  Aug 2022
+ - image_path: /gallery/photo/bears.png
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGQOeMmLlA5M
+   gallery-name:  Bears in New Bern NC
+   gallery-date: Mar 2023
+ - image_path: /gallery/photo/House.New.Bern.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l52plgjGlWiua
+   gallery-name: Shoreline Dr in New Bern NC
+   gallery-date: Feb 2023
+ - image_path: /gallery/photo/charleston1.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lJRveFpGt82BK
+   gallery-name: Charlston SC
+   gallery-date: Feb 2022
+ - image_path: /gallery/photo/Annapolis.jpg 
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l5aDWbrJJpQYA 
+   gallery-name: Annapolis Boat Show 2021
+   gallery-date: Oct 2021
+ - image_path: /gallery/photo/hendersonville.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGJDfWGJ8IfEJ 
+   gallery-name: Hendersonville  
+   gallery-date: Oct 2021
+ - image_path: /gallery/photo/holden.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGIcgc2GbsDY
+   gallery-name: Holden Beach 
+   gallery-date: Oct 2021
+ - image_path: /gallery/photo/gooseberry.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0l5NI45MGoYhxG
+   gallery-name: Gooseberry
+   gallery-date: Sept 2021
+ - image_path: /gallery/photo/peedee.jpg
+   gallery-cloud: https://www.icloud.com/sharedalbum/#B0lGdIshaqKveU 
+   gallery-name: Pee Dee National Wildlife Refuge
+   gallery-date: Jan 2023
+
+---
+
+<html class="no-js" lang="en">
+<head>
+	<meta content="charset=utf-8">
+    <link rel="stylesheet" href="{{ "/css/selena.css" | prepend: site.baseurl }}">
+</head>
+
+
+    <body class="gallery">
+ 
+	<section id="content" role="main">
+		<div class="wrapper">
+	
+			<!-- Gallery __-->
+			<div class="gallery masonry-gallery">
+				
+{% for image in page.images %}  	
+
+	               <figure class="gallery-item">
+                         <figure class="effect-selena">
+					<header class='gallery-icon'>
+		       
+<a href="{{ image.gallery-cloud }}">
+<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
+
+					</header>	
+					<figcaption class='gallery-caption'>
+						<div class="entry-summary">
+							<h3>{{image.gallery-name}}</h3>
+							<p>{{image.gallery-date}}</p>
+						</div>
+					</figcaption>
+                       </figure>
+				</figure>
+							
+{% endfor %}		
+				
+			</div>
+			
+		</div><!-- END .wrapper -->
+	</section>
+
+
+<br>
+
+<!-- jQuery -->    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/js/retina.min.js"></script>
+<!-- include Masonry -->
+<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script> 
+<!-- include mousewheel plugins -->
+<script src="{{ site.baseurl }}/js/jquery.mousewheel.min.js"></script>
+<!-- include carousel plugins -->
+<script src="{{ site.baseurl}}/js/jquery.tinycarousel.min.js"></script>
+<!-- include svg line drawing plugin -->
+<script src="{{ site.baseurl }}/js/jquery.lazylinepainter.min.js"></script>
+<!-- include custom script -->
+<script src="{{ site.baseurl }}/js/scripts.js"></script>
+<!-- Modernizr -->
+ <script src="{{ site.baseurl }}/js/modernizr.js"></script>
+
+</body></html>
