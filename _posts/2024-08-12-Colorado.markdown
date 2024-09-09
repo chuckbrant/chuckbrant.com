@@ -16,4 +16,4 @@ hidden: false
 <br>
 <br>
 ### [Photo Album](https://www.icloud.com/sharedalbum/#B0lGq6kMgfiiua)
-![image tooltip here](/gallery/photo/Colorado1.pngg)
+![image tooltip here](/gallery/photo/Colorado1.png)
