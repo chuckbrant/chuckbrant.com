@@ -5,7 +5,7 @@ title:      "Colorado here we come!!!"
 subtitle:   "Off to see family"
 image:
   feature: "Colorado1.png"
-date:       2024-04-20
+date:       2024-08-12
 header-img: "img/postcover/map.png"
 comments: false
 published: true
